@@ -1,0 +1,135 @@
+{
+    "product": [
+        {
+          "id": 0,
+          "imageUrl": "https://shopmir.ru.com/image/cache/catalog/slides/Besplatnayadostavka-1208x541-1208x541.jpg",
+          "name": "Products ...",
+          "count": 4,
+          "types": [1],
+          "sizes": [200, 200],
+          "weight": 200,
+          "price": 245,
+          "category": 1,
+          "rating": 6,
+          "comments": ["Comment"]
+        },
+        {
+            "id": 1,
+            "imageUrl": "https://shopmir.ru.com/image/cache/catalog/slides/Besplatnayadostavka-1208x541-1208x541.jpg",
+            "name": "Products ...",
+            "count": 2,
+            "types": [1],
+            "sizes": [200, 200],
+            "weight": 200,
+            "price": 245,
+            "category": 1,
+            "rating": 6,
+            "comments": ["Comment"]
+          },
+          {
+            "id": 2,
+            "imageUrl": "https://shopmir.ru.com/image/cache/catalog/slides/Besplatnayadostavka-1208x541-1208x541.jpg",
+            "name": "Products ...",
+            "count": 0,
+            "types": [0],
+            "sizes": [200, 200],
+            "weight": 200,
+            "price": 245,
+            "category": 1,
+            "rating": 6,
+            "comments": ["Comment"]
+          },
+          {
+            "id": 3,
+            "imageUrl": "https://shopmir.ru.com/image/cache/catalog/slides/Besplatnayadostavka-1208x541-1208x541.jpg",
+            "name": "Products ...",
+            "count": 4,
+            "types": [0],
+            "sizes": [200, 200],
+            "weight": 200,
+            "price": 245,
+            "category": 1,
+            "rating": 6,
+            "comments": ["Comment"]
+          },
+          {
+            "id": 4,
+            "imageUrl": "https://shopmir.ru.com/image/cache/catalog/slides/Besplatnayadostavka-1208x541-1208x541.jpg",
+            "name": "Products ...",
+            "count": 4,
+            "types": [0],
+            "sizes": [200, 200],
+            "weight": 200,
+            "price": 245,
+            "category": 1,
+            "rating": 6,
+            "comments": ["Comment"]
+          },
+          {
+            "id": 5,
+            "imageUrl": "https://shopmir.ru.com/image/cache/catalog/slides/Besplatnayadostavka-1208x541-1208x541.jpg",
+            "name": "Products ...",
+            "count": 4,
+            "types": [0],
+            "sizes": [200, 200],
+            "weight": 200,
+            "price": 245,
+            "category": 1,
+            "rating": 6,
+            "comments": ["Comment"]
+          },
+          {
+            "id": 6,
+            "imageUrl": "https://shopmir.ru.com/image/cache/catalog/slides/Besplatnayadostavka-1208x541-1208x541.jpg",
+            "name": "Products ...",
+            "count": 4,
+            "types": [0],
+            "sizes": [200, 200],
+            "weight": 200,
+            "price": 245,
+            "category": 1,
+            "rating": 6,
+            "comments": ["Comment"]
+          },
+          {
+            "id": 7,
+            "imageUrl": "https://shopmir.ru.com/image/cache/catalog/slides/Besplatnayadostavka-1208x541-1208x541.jpg",
+            "name": "Products ...",
+            "count": 4,
+            "types": [0],
+            "sizes": [200, 200],
+            "weight": 200,
+            "price": 245,
+            "category": 1,
+            "rating": 6,
+            "comments": ["Comment"]
+          },
+          {
+            "id": 8,
+            "imageUrl": "https://shopmir.ru.com/image/cache/catalog/slides/Besplatnayadostavka-1208x541-1208x541.jpg",
+            "name": "Products ...",
+            "count": 4,
+            "types": [0],
+            "sizes": [200, 200],
+            "weight": 200,
+            "price": 245,
+            "category": 1,
+            "rating": 6,
+            "comments": ["Comment"]
+          },
+          {
+            "id": 9,
+            "imageUrl": "https://shopmir.ru.com/image/cache/catalog/slides/Besplatnayadostavka-1208x541-1208x541.jpg",
+            "name": "Products ...",
+            "count": 4,
+            "types": [0],
+            "sizes": [200, 200],
+            "weight": 200,
+            "price": 245,
+            "category": 1,
+            "rating": 6,
+            "comments": ["Comment"]
+          }
+    ]
+  }
+  
